@@ -1,0 +1,3 @@
+age,gender,diabetes,hypertension,smoking,heart_disease
+45,M,1,0,1,1
+55,F,1,1,0,0
